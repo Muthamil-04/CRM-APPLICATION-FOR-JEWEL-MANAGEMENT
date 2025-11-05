@@ -1,7 +1,5 @@
-Here the Project design phase documents are uploaded
+Here the Requirement Analysis Phase documents are uploaded
 
-1.Problem Solution fit
+1.Dataflo and user theory
 
-2.Proposed Solution
-
-3.Solution Architecture
+2.Requirement Analysis
